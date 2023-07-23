@@ -16,7 +16,7 @@ height: 200px;
 width: 200px;
 }
 #flexitem1{
-   background-color: aqua; 
+   background-color: aquamarine; 
    /* flex-shrink: 4; */
 }
 #flexitem2{
